@@ -68,7 +68,7 @@ function test_input($data) {
                 <div class="col-md-4" style="border:none">
                     <p></p>
                 </div>
-                <div class="col-md-4" style="background-color:black;padding: 20px;max-width:400px">
+                <div class="col-md-4" style="background-color:#333333;padding: 20px;max-width:400px">
 
                     <form role="form">
                         <div class="form-group">
