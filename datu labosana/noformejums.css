@@ -1,7 +1,10 @@
 
 body {
 
-    background-color: lightblue;
+    border-top:5px solid #e56038;
+        background:#D6D0C1;                        
+        font-family: 'Open Sans', sans-serif;
+        color:#333333;
 
 }
 
@@ -17,59 +20,59 @@ background-color:#ff7800;
 
 
 .virsraksti{
-font-family:Agency FB;
+font-family:'Open Sans', sans-serif;
 font-weight:bold;
 font-size:18px;
 color:#ffffff;
 }
 
 a {
-	font-family:Agency FB;
+	font-family:'Open Sans', sans-serif;
 text-decoration:none;
 color:black;
 }
 
 a:hover {
-	font-family:Agency FB;
+	font-family:'Open Sans', sans-serif;
 text-decoration:none;
 color:black;
 }
 
 td{
-	font-family:Agency FB;
+	font-family:'Open Sans', sans-serif;
 color:black;
 }
 b{
-	font-family:Agency FB;
+	font-family:'Open Sans', sans-serif;
     color: black;
 	font-size: 18px;
 }
 .virsraksti{
     color: black;
-	font-family:Agency FB;
+	font-family:'Open Sans', sans-serif;
 }button{
-	 font-family:Agency FB;
+	 font-family:'Open Sans', sans-serif;
 	font-weight: bold;
 }
 
 .pazinojums{
 	color: black;
 	font-weight:bold;
-	font-family:Agency FB;
+	font-family:'Open Sans', sans-serif;
 	font-size: 18px;
 }
 .mvirsraksti{
 	font-weight: bold;
-	font-family:Agency FB;
+	font-family:'Open Sans', sans-serif;
 	font-size: 20px;
 }
 .error{
 	color: white;
 	font-weight: bold;
-	font-family:Agency FB;
+	font-family:'Open Sans', sans-serif;
 }
 .lb{
-	font-family:Agency FB;
+	font-family:'Open Sans', sans-serif;
 	color: white;
 	font-weight: bolder;
 	font-size: 18px;
