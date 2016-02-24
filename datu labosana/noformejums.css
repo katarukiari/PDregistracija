@@ -1,0 +1,77 @@
+
+body {
+
+    background-color: lightblue;
+
+}
+
+.izvelne {
+border:1px solid #fb7013;
+width:860px;
+height:auto;
+margin:auto;
+margin-top:20px;
+padding:10px;
+background-color:#ff7800; 
+}
+
+
+.virsraksti{
+font-family:Agency FB;
+font-weight:bold;
+font-size:18px;
+color:#ffffff;
+}
+
+a {
+	font-family:Agency FB;
+text-decoration:none;
+color:black;
+}
+
+a:hover {
+	font-family:Agency FB;
+text-decoration:none;
+color:black;
+}
+
+td{
+	font-family:Agency FB;
+color:black;
+}
+b{
+	font-family:Agency FB;
+    color: black;
+	font-size: 18px;
+}
+.virsraksti{
+    color: black;
+	font-family:Agency FB;
+}button{
+	 font-family:Agency FB;
+	font-weight: bold;
+}
+
+.pazinojums{
+	color: black;
+	font-weight:bold;
+	font-family:Agency FB;
+	font-size: 18px;
+}
+.mvirsraksti{
+	font-weight: bold;
+	font-family:Agency FB;
+	font-size: 20px;
+}
+.error{
+	color: white;
+	font-weight: bold;
+	font-family:Agency FB;
+}
+.lb{
+	font-family:Agency FB;
+	color: white;
+	font-weight: bolder;
+	font-size: 18px;
+}
+
